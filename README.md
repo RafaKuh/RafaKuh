@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RafaKuh or Rafael Murillo 
+- 👋 Hi, I’m Rafael Murillo.
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Cybersecurity at MState Moorhead.
 - 💞️ I’m looking to collaborate on Linux and more coding stuff.
