@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafael Murillo.
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in the coding world.
 - 🌱 I’m currently learning Cybersecurity at MState Moorhead.
 - 💞️ I’m looking to collaborate on Linux and more coding stuff.
 - 📫 How to reach me : my email rafael.murillo.2048@gmail.com
