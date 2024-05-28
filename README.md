@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Linux and more coding stuff.
 - 📫 How to reach me : my email rafael.murillo.2048@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I also play videos games, especially search and destroy gamemodes.
+
 
 <!---
 RafaKuh/RafaKuh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
