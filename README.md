@@ -1,9 +1,5 @@
-- 👋 Hi, I’m Rafael Murillo.
-- 👀 I’m interested in the coding world.
-- 🌱 I’m currently learning Cybersecurity at MState Moorhead.
-- 💞️ I’m looking to collaborate on Linux and more coding stuff.
-- 📫 How to reach me : my email rafael.murillo.2048@gmail.com
-- 😄 Pronouns: He/Him
+- 👋 Hi, I’m Rafael Murillo. I am a passionate cybersecurity student that does coding, from Linux to Phyton, and always improving and learning. I also compete in a college blue team vs red team (im blue team).
+
 
 
 <!---
