@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rafael Murillo. I am a passionate cybersecurity student that does coding, from Linux to Phyton, and always improving and learning. I also compete in a college blue team vs red team (im blue team).
+- 👋 Hi, I’m Raf. I am a passionate cybersecurity student that does coding, from Linux to Phyton, and always improving and learning. I also compete in a college blue team vs red team (im blue team).
 
 
 
